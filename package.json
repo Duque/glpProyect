@@ -1,0 +1,14 @@
+{
+  "name": "glp",
+  "version": "0.0.0",
+  "description": "A little big App for manage your cultives like a pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raúl Duque Montánez raul.duque.montanez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
